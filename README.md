@@ -1,7 +1,11 @@
-IEM Events — Department of CSE (AIML)
-Open index.html in any modern browser. No build step or server needed.
+# HackMatrix — Hackathon Project
 
-css/style.css — styles (edit the :root tokens to change the palette)
-js/script.js — edit the EVENTS array at the top to add or change events; the list, filters, countdown and registration dropdown update automatically
-images/ — replace the six .jpg placeholders with real photos (keep the filenames or update index.html)
-See REPORT.md for the project report and screenshots/ for captured views.
+Open `index.html` in any modern browser to view the website. No build step or server is required.
+
+`css/style.css` — controls the website's design, layout, colors, and styling.
+
+`js/script.js` — manages the website's interactive features and functionality.
+
+`images/` — contains the images used in the website. Replace the images with your own photos while keeping the filenames unchanged, or update the image paths in `index.html`.
+
+See `REPORT.md` for the project report and documentation. Refer to the screenshots folder for captured views of the website.
